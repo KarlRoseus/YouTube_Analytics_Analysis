@@ -28,7 +28,7 @@ The objective of this project is to understand which types of content drive the 
 The datasets used in this project were exported directly from YouTube Studio analytics. Separate exports were used to analyze monthly channel growth, video-level performance, audience demographics, geographic distribution, and subscriber engagement metrics.
 
 ### Dashboard Preview 
-Table that shows YOY percent changes in average fare rates and passenger change
+Full Dashboard Overview
 ![Overview of Dashboard](Elements/YouTube_Dashboard.png)
 
 The full Tableau interactive dashboard can be found [here](https://public.tableau.com/app/profile/karl.r6258/viz/ASMR_Youtube_17727215829430/YoutubeAnalysisDashboard)
